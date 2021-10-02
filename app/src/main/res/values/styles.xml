@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="buttonStyle">
+        <item name="android:layout_height">55dp</item>
+        <item name="android:layout_marginStart">8dp</item>
+        <item name="android:layout_marginTop">24dp</item>
+        <item name="android:layout_marginEnd">8dp</item>
+        <item name="android:backgroundTint">#3F51B5</item>
+        <item name="android:elevation">8dp</item>
+        <item name="android:fontFamily">@font/almendra_sc</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:textColor">#46CC4B</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

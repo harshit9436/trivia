@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="question_number">Question: 15/27</string>
+    <string name="True_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="Question_index">Question: %d/%d</string>
+    <string name="Correct_ans">It\'s Correct</string>
+    <string name="Incorrect_ans">It\'s incorrect</string>
+    <string name="Submit">submit </string>
+    <string name="StartAgain">Retake The Quiz</string>
+</resources>
